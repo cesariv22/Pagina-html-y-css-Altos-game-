@@ -162,6 +162,11 @@ body {
   font-weight: 200;
 }
 
+.card-body a {
+  display: block;
+  text-align: center;
+}
+
 /* Nosotros */
 
 .nosotros {
